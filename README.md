@@ -37,6 +37,13 @@
 
 ---
 
+## 🔑 Default Admin Credentials
+
+- **Username**: admin
+- **Password**: admin@Hostel12345
+
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
