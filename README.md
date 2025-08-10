@@ -43,5 +43,3 @@
 - PHP >= 7.x
 - MySQL
 - Apache Server (XAMPP/WAMP recommended)
-   ```bash
-   git clone https://github.com/your-username/hostel-management-system.git
